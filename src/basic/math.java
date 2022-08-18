@@ -12,5 +12,12 @@ public class math {
 	public static void multiply(int a, int b)
 	{
 		System.out.println("Product is:" + a*b);
+		
 	}
+	public static void substract(int a, int b)
+	{
+		System.out.println("result is:" + (a-b));
+		
+	}
+	
 }
